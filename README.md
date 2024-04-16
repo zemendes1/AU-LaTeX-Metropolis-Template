@@ -2,6 +2,9 @@
 
 This LaTeX template provides a sleek and professional-looking presentation style tailored for Aarhus University, utilizing the popular Metropolis theme for Beamer.
 
+![Template](https://github.com/zemendes1/AU-LaTeX_Metropolis_Template/assets/61622582/3c12ffb4-9dfe-4345-98cf-25784dab9c3d)
+
+
 ## Customization
 
 - **Color Scheme**: You can customize the color scheme of the presentation by modifying the colors in the `beamercolorthememetropolisAU.sty` file.
